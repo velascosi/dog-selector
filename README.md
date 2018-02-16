@@ -1,2 +1,4 @@
 # dog-selector
-My first academic job 
+Este é meu primeiro projeto concluído utilizando: HTML / CSS / Javascript
+
+___________________________________________________________________________________________________________________________
